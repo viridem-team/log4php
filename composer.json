@@ -1,5 +1,5 @@
 {
-  "name": "joaomfrebelo/log4php",
+  "name": "viridem/log4php",
   "description": "A versatile logging framework for PHP. Forked from apache/log4php",
   "keywords": [
     "log",
