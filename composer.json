@@ -10,9 +10,9 @@
   "type": "library",
   "license": "Apache-2.0",
   "support": {
-    "issues": "https://github.com/joaomfrebelo/log4php/issues",
-    "source": "https://github.com/joaomfrebelo/log4php",
-    "email": "joaomfrebelo@gmail.com"
+    "issues": "https://github.com/viridem-team/log4php/issues",
+    "source": "https://github.com/viridem-team/log4php",
+    "email": "github@viridem.ca"
   },
   "autoload": {
     "classmap": [
